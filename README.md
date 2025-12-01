@@ -3,6 +3,8 @@
 *Power BI Project*
 
 ## 📁 Project Overview
+<img width="992" height="558" alt="246595953-5151c585-882b-4db4-b324-a8cc63256fb4 (1)" src="https://github.com/user-attachments/assets/d34f0813-eddb-4515-bd26-fa7432e5848b" />
+
 
 This repository contains an interactive *E-commerce Sales Dashboard* built using *Power BI (.pbix file)*.
 The dashboard provides key insights into sales performance, customer behavior, regional trends, product-wise analysis, and other business KPIs essential for decision-making.
